@@ -10,8 +10,10 @@
 
 4. Repeat steps 2 and 3 until the user guesses the correct number.
 
-You can incorporate additional details as follows:
+   You can incorporate additional details as follows:
 
 5. Limit the number of attempts the user has to guess the number.
+   
 6. Add the option for multiple rounds, allowing the user to play again.
+   
 7. Display the user's score, which can be based on the number of attempts taken or rounds won.
